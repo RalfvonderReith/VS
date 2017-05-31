@@ -1,0 +1,135 @@
+tester: -----new frame-----
+tester: 1496179299027: Slot 1 / A 
+tester: 1496179299168: Slot 5 / A 
+tester: 1496179299214: Slot 6 / A 
+tester: 1496179299292: Slot 8 / A 
+tester: 1496179299324: Slot 9 / A 
+tester: 1496179299402: Slot 11 / A 
+tester: -----new frame-----
+tester: 1496179350031: Slot 1 / A 
+tester: 1496179350171: Slot 5 / A 
+tester: 1496179350202: Slot 6 / A 
+tester: 1496179350280: Slot 8 / A 
+tester: 1496179350327: Slot 9 / A 
+tester: 1496179350405: Slot 11 / A 
+tester: 1496179350686: Slot 18 / A 
+tester: 1496179350811: Slot 21 / A 
+tester: 1496179350842: Slot 22 / A 
+tester: 1496179350967: Slot 25 / A 
+tester: -----new frame-----
+tester: 1496179351014: Slot 1 / A 
+tester: 1496179351170: Slot 5 / A 
+tester: 1496179351201: Slot 6 / A 
+tester: 1496179351294: Slot 8 / A 
+tester: 1496179351326: Slot 9 / A 
+tester: 1496179351404: Slot 11 / A 
+tester: 1496179351684: Slot 18 / A 
+tester: 1496179351731: A|__________INIT__________|19|1496179351731
+tester: 1496179351809: Slot 21 / A 
+tester: 1496179351840: Slot 22 / A 
+tester: 1496179351965: Slot 25 / A 
+tester: -----new frame-----
+tester: 1496179352012: Slot 1 / A 
+tester: 1496179352168: Slot 5 / A 
+tester: 1496179352215: Slot 6 / A 
+tester: 1496179352293: Slot 8 / A 
+tester: 1496179352324: Slot 9 / A 
+tester: 1496179352402: Slot 11 / A 
+tester: 1496179352683: Slot 18 / A 
+tester: 1496179352730: A|__________INIT__________|23|1496179352730
+tester: 1496179352808: Slot 21 / A 
+tester: 1496179352854: Slot 22 / A 
+tester: 1496179352964: Slot 25 / A 
+tester: -----new frame-----
+tester: 1496179353010: Slot 1 / A 
+tester: 1496179353166: Slot 5 / A 
+tester: 1496179353213: Slot 6 / A 
+tester: 1496179353291: Slot 8 / A 
+tester: 1496179353322: Slot 9 / A 
+tester: 1496179353400: Slot 11 / A 
+tester: 1496179353681: Slot 18 / A 
+tester: 1496179353806: Slot 21 / A 
+tester: 1496179353853: Slot 22 / A 
+tester: 1496179353884: A|__________INIT__________|3|1496179353884
+tester: 1496179353962: Slot 25 / A 
+tester: -----new frame-----
+tester: 1496179354009: Slot 1 / A 
+tester: 1496179354087: A|__________INIT__________|3|1496179354087
+tester: 1496179354165: Slot 5 / A 
+tester: 1496179354212: Slot 6 / A 
+tester: 1496179354290: Slot 8 / A 
+tester: 1496179354321: Slot 9 / A 
+tester: 1496179354415: Slot 11 / A 
+tester: 1496179354680: Slot 18 / A 
+tester: 1496179354805: Slot 21 / A 
+tester: 1496179354851: Slot 22 / A 
+tester: 1496179354961: Slot 25 / A 
+tester: -----new frame-----
+tester: 1496179355007: Slot 1 / A 
+tester: 1496179355085: A|__________INIT__________|25|1496179355085
+tester: 1496179355163: Slot 5 / A 
+tester: 1496179355210: Slot 6 / A 
+tester: 1496179355288: Slot 8 / A 
+tester: 1496179355335: Slot 9 / A 
+tester: 1496179355413: Slot 11 / A 
+tester: 1496179355694: Slot 18 / A 
+tester: 1496179355803: Slot 21 / A 
+tester: 1496179355850: Slot 22 / A 
+tester: 1496179355975: Slot 25 / A 
+tester: -----new frame-----
+tester: 1496179356006: Slot 1 / A 
+tester: 1496179356162: Slot 5 / A 
+tester: 1496179356209: Slot 6 / A 
+tester: 1496179356287: Slot 8 / A 
+tester: 1496179356333: Slot 9 / A 
+tester: 1496179356411: Slot 11 / A 
+tester: 1496179356692: Slot 18 / A 
+tester: 1496179356801: Slot 21 / A 
+tester: 1496179356848: Slot 22 / A 
+tester: 1496179356973: Slot 25 / A 
+tester: 1496179356973: A|__________INIT__________|19|1496179356973
+tester: -----new frame-----
+tester: 1496179357004: Slot 1 / A 
+tester: 1496179357160: Slot 5 / A 
+tester: 1496179357207: Slot 6 / A 
+tester: 1496179357285: Slot 8 / A 
+tester: 1496179357332: Slot 9 / A 
+tester: 1496179357410: Slot 11 / A 
+tester: 1496179357691: Slot 18 / A 
+tester: 1496179357722: A|__________INIT__________|25|1496179357722
+tester: 1496179357800: Slot 21 / A 
+tester: 1496179357847: Slot 22 / A 
+tester: 1496179357971: Slot 25 / A 
+tester: -----new frame-----
+tester: 1496179358003: Slot 1 / A 
+tester: 1496179358174: Slot 5 / A 
+tester: 1496179358205: Slot 6 / A 
+tester: 1496179358283: Slot 8 / A 
+tester: 1496179358330: Slot 9 / A 
+tester: 1496179358408: Slot 11 / A 
+tester: 1496179358689: Slot 18 / A 
+tester: 1496179358814: Slot 21 / A 
+tester: 1496179358845: Slot 22 / A 
+tester: 1496179358970: Slot 25 / A 
+tester: 1496179358970: A|__________INIT__________|17|1496179358970
+tester: -----new frame-----
+tester: 1496179359001: Slot 1 / A 
+tester: 1496179359173: Slot 5 / A 
+tester: 1496179359204: Slot 6 / A 
+tester: 1496179359282: Slot 8 / A 
+tester: 1496179359329: Slot 9 / A 
+tester: 1496179359407: Slot 11 / A 
+tester: 1496179359641: A|__________INIT__________|3|1496179359641
+tester: 1496179359687: Slot 18 / A 
+tester: 1496179359812: Slot 21 / A 
+tester: 1496179359843: Slot 22 / A 
+tester: 1496179359968: Slot 25 / A 
+tester: -----new frame-----
+tester: 1496179360015: Slot 1 / A 
+tester: 1496179360093: A|__________INIT__________|6|1496179360093
+tester: 1496179360171: Slot 5 / A 
+tester: 1496179360202: Slot 6 / A 
+tester: 1496179360280: Slot 8 / A 
+tester: 1496179360327: Slot 9 / A 
+tester: 1496179360405: Slot 11 / A 
+tester: 1496179360686: Slot 18 / A 

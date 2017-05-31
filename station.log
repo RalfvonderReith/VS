@@ -1,0 +1,1861 @@
+---starting Station---
+started all modules
+1496179237826: started frame timer: 14
+wait for next_slot 
+Station: 1496179237920: 920 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: none, CurrentTime 1496179237920
+Station: next slot in time 1496179237920 wait 40
+wait for next_slot 
+Station: 1496179237967: 967 -> 25 40
+got no message last Slot
+Station: check for sending, Current: 25 Reserved: none, CurrentTime 1496179237967
+Station: next slot in time 1496179237967 wait 33
+wait for next_slot 
+Station: 1496179238014: 14 -> 1 40
+got no message last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: none, CurrentTime 1496179238014
+Station: next slot in time 1496179238014 wait 26
+wait for next_slot 
+Station: 1496179238045: 45 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: none, CurrentTime 1496179238045
+Station: next slot in time 1496179238045 wait 35
+wait for next_slot 
+Station: 1496179238092: 92 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: none, CurrentTime 1496179238092
+Station: next slot in time 1496179238092 wait 28
+wait for next_slot 
+Station: 1496179238123: 123 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: none, CurrentTime 1496179238123
+Station: next slot in time 1496179238123 wait 37
+wait for next_slot 
+Station: 1496179238170: 170 -> 5 40
+got no message last Slot
+Station: check for sending, Current: 5 Reserved: none, CurrentTime 1496179238170
+Station: next slot in time 1496179238170 wait 30
+wait for next_slot 
+Station: 1496179238201: 201 -> 6 40
+got no message last Slot
+Station: check for sending, Current: 6 Reserved: none, CurrentTime 1496179238201
+Station: next slot in time 1496179238201 wait 39
+wait for next_slot 
+Station: 1496179238248: 248 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: none, CurrentTime 1496179238248
+Station: next slot in time 1496179238248 wait 32
+wait for next_slot 
+Station: 1496179238294: 294 -> 8 40
+got no message last Slot
+Station: check for sending, Current: 8 Reserved: none, CurrentTime 1496179238294
+Station: next slot in time 1496179238294 wait 26
+wait for next_slot 
+Station: 1496179238326: 326 -> 9 40
+got no message last Slot
+Station: check for sending, Current: 9 Reserved: none, CurrentTime 1496179238326
+Station: next slot in time 1496179238326 wait 34
+wait for next_slot 
+Station: 1496179238372: 372 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: none, CurrentTime 1496179238372
+Station: next slot in time 1496179238372 wait 28
+wait for next_slot 
+Station: 1496179238404: 404 -> 11 40
+got no message last Slot
+Station: check for sending, Current: 11 Reserved: none, CurrentTime 1496179238404
+Station: next slot in time 1496179238404 wait 36
+wait for next_slot 
+Station: 1496179238450: 450 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: none, CurrentTime 1496179238450
+Station: next slot in time 1496179238450 wait 30
+wait for next_slot 
+Station: 1496179238482: 482 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: none, CurrentTime 1496179238482
+Station: next slot in time 1496179238482 wait 38
+wait for next_slot 
+Station: 1496179238528: 528 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: none, CurrentTime 1496179238528
+Station: next slot in time 1496179238528 wait 32
+wait for next_slot 
+Station: 1496179238575: 575 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: none, CurrentTime 1496179238575
+Station: next slot in time 1496179238575 wait 25
+wait for next_slot 
+Station: 1496179238606: 606 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: none, CurrentTime 1496179238606
+Station: next slot in time 1496179238606 wait 34
+wait for next_slot 
+Station: 1496179238653: 653 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: none, CurrentTime 1496179238653
+Station: next slot in time 1496179238653 wait 27
+wait for next_slot 
+Station: 1496179238684: 684 -> 18 40
+got no message last Slot
+Station: check for sending, Current: 18 Reserved: none, CurrentTime 1496179238684
+Station: next slot in time 1496179238684 wait 36
+wait for next_slot 
+Station: 1496179238731: 731 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: none, CurrentTime 1496179238731
+Station: next slot in time 1496179238731 wait 29
+wait for next_slot 
+Station: 1496179238762: 762 -> 20 40
+got no message last Slot
+Station: check for sending, Current: 20 Reserved: none, CurrentTime 1496179238762
+Station: next slot in time 1496179238762 wait 38
+wait for next_slot 
+Station: 1496179238809: 809 -> 21 40
+got no message last Slot
+Station: check for sending, Current: 21 Reserved: none, CurrentTime 1496179238809
+Station: next slot in time 1496179238809 wait 31
+wait for next_slot 
+Station: 1496179238840: 840 -> 22 40
+got no message last Slot
+Station: check for sending, Current: 22 Reserved: none, CurrentTime 1496179238840
+Station: next slot in time 1496179238840 wait 40
+wait for next_slot 
+Station: 1496179238887: 887 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: none, CurrentTime 1496179238887
+Station: next slot in time 1496179238887 wait 33
+wait for next_slot 
+Station: 1496179238934: 934 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: none, CurrentTime 1496179238934
+Station: next slot in time 1496179238934 wait 26
+wait for next_slot 
+Station: 1496179238965: 965 -> 25 40
+got no message last Slot
+Station: check for sending, Current: 25 Reserved: none, CurrentTime 1496179238965
+Station: next slot in time 1496179238965 wait 35
+wait for next_slot 
+Station: 1496179239012: 12 -> 1 40
+got no message last Slot
+=== new frame ===
+Station: new entry with slot: 14
+Station: check for sending, Current: 1 Reserved: 14, CurrentTime 1496179239012
+Station: next slot in time 1496179239012 wait 28
+wait for next_slot 
+Station: 1496179239043: 43 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: 14, CurrentTime 1496179239043
+Station: next slot in time 1496179239043 wait 37
+wait for next_slot 
+Station: 1496179239090: 90 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: 14, CurrentTime 1496179239090
+Station: next slot in time 1496179239090 wait 30
+wait for next_slot 
+Station: 1496179239121: 121 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: 14, CurrentTime 1496179239121
+Station: next slot in time 1496179239121 wait 39
+wait for next_slot 
+Station: 1496179239168: 168 -> 5 40
+got no message last Slot
+Station: check for sending, Current: 5 Reserved: 14, CurrentTime 1496179239168
+Station: next slot in time 1496179239168 wait 32
+wait for next_slot 
+Station: 1496179239215: 215 -> 6 40
+got no message last Slot
+Station: check for sending, Current: 6 Reserved: 14, CurrentTime 1496179239215
+Station: next slot in time 1496179239215 wait 25
+wait for next_slot 
+Station: 1496179239246: 246 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: 14, CurrentTime 1496179239246
+Station: next slot in time 1496179239246 wait 34
+wait for next_slot 
+Station: 1496179239293: 293 -> 8 40
+got no message last Slot
+Station: check for sending, Current: 8 Reserved: 14, CurrentTime 1496179239293
+Station: next slot in time 1496179239293 wait 27
+wait for next_slot 
+Station: 1496179239324: 324 -> 9 40
+got no message last Slot
+Station: check for sending, Current: 9 Reserved: 14, CurrentTime 1496179239324
+Station: next slot in time 1496179239324 wait 36
+wait for next_slot 
+Station: 1496179239371: 371 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: 14, CurrentTime 1496179239371
+Station: next slot in time 1496179239371 wait 29
+wait for next_slot 
+Station: 1496179239402: 402 -> 11 40
+got no message last Slot
+Station: check for sending, Current: 11 Reserved: 14, CurrentTime 1496179239402
+Station: next slot in time 1496179239402 wait 38
+wait for next_slot 
+Station: 1496179239449: 449 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: 14, CurrentTime 1496179239449
+Station: next slot in time 1496179239449 wait 31
+wait for next_slot 
+Station: 1496179239480: 480 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: 14, CurrentTime 1496179239480
+Station: next slot in time 1496179239480 wait 40
+wait for next_slot 
+Station: 1496179239527: 527 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: 14, CurrentTime 1496179239527
+---starting Station---
+started all modules
+1496179272241: started frame timer: 39
+wait for next_slot 
+Station: 1496179272304: 304 -> 8 40
+got no message last Slot
+Station: check for sending, Current: 8 Reserved: none, CurrentTime 1496179272304
+Station: next slot in time 1496179272304 wait 16
+wait for next_slot 
+Station: 1496179272335: 335 -> 9 40
+got no message last Slot
+Station: check for sending, Current: 9 Reserved: none, CurrentTime 1496179272335
+Station: next slot in time 1496179272335 wait 25
+wait for next_slot 
+Station: 1496179272366: 366 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: none, CurrentTime 1496179272366
+Station: next slot in time 1496179272366 wait 34
+wait for next_slot 
+Station: 1496179272413: 413 -> 11 40
+got no message last Slot
+Station: check for sending, Current: 11 Reserved: none, CurrentTime 1496179272413
+Station: next slot in time 1496179272413 wait 27
+wait for next_slot 
+Station: 1496179272444: 444 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: none, CurrentTime 1496179272444
+Station: next slot in time 1496179272444 wait 36
+wait for next_slot 
+Station: 1496179272491: 491 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: none, CurrentTime 1496179272491
+Station: next slot in time 1496179272491 wait 29
+wait for next_slot 
+Station: 1496179272522: 522 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: none, CurrentTime 1496179272522
+Station: next slot in time 1496179272522 wait 38
+wait for next_slot 
+Station: 1496179272569: 569 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: none, CurrentTime 1496179272569
+Station: next slot in time 1496179272569 wait 31
+wait for next_slot 
+Station: 1496179272600: 600 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: none, CurrentTime 1496179272600
+Station: next slot in time 1496179272600 wait 40
+wait for next_slot 
+---starting Station---
+started all modules
+1496179298687: started frame timer: 33
+wait for next_slot 
+Station: 1496179298749: 749 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: none, CurrentTime 1496179298749
+Station: next slot in time 1496179298749 wait 11
+wait for next_slot 
+Station: 1496179298765: 765 -> 20 40
+got no message last Slot
+Station: check for sending, Current: 20 Reserved: none, CurrentTime 1496179298765
+Station: next slot in time 1496179298765 wait 35
+wait for next_slot 
+Station: 1496179298812: 812 -> 21 40
+got no message last Slot
+Station: check for sending, Current: 21 Reserved: none, CurrentTime 1496179298812
+Station: next slot in time 1496179298812 wait 28
+wait for next_slot 
+Station: 1496179298843: 843 -> 22 40
+got no message last Slot
+Station: check for sending, Current: 22 Reserved: none, CurrentTime 1496179298843
+Station: next slot in time 1496179298843 wait 37
+wait for next_slot 
+Station: 1496179298890: 890 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: none, CurrentTime 1496179298890
+Station: next slot in time 1496179298890 wait 30
+wait for next_slot 
+Station: 1496179298921: 921 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: none, CurrentTime 1496179298921
+Station: next slot in time 1496179298921 wait 39
+wait for next_slot 
+Station: 1496179298968: 968 -> 25 40
+got no message last Slot
+Station: check for sending, Current: 25 Reserved: none, CurrentTime 1496179298968
+Station: next slot in time 1496179298968 wait 32
+wait for next_slot 
+Station: 1496179299015: 15 -> 1 40
+got no message last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: none, CurrentTime 1496179299015
+Station: next slot in time 1496179299015 wait 25
+wait for next_slot 
+Station: 1496179299046: 46 -> 2 40
+MESSAGE A last Slot
+Station: check for sending, Current: 2 Reserved: none, CurrentTime 1496179299046
+Station: next slot in time 1496179299046 wait 34
+wait for next_slot 
+Station: 1496179299093: 93 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: none, CurrentTime 1496179299093
+Station: next slot in time 1496179299093 wait 27
+wait for next_slot 
+Station: 1496179299124: 124 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: none, CurrentTime 1496179299124
+Station: next slot in time 1496179299124 wait 36
+wait for next_slot 
+Station: 1496179299171: 171 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: none, CurrentTime 1496179299171
+Station: next slot in time 1496179299171 wait 29
+wait for next_slot 
+Station: 1496179299202: 202 -> 6 40
+got no message last Slot
+Station: check for sending, Current: 6 Reserved: none, CurrentTime 1496179299202
+Station: next slot in time 1496179299202 wait 38
+wait for next_slot 
+Station: 1496179299249: 249 -> 7 40
+MESSAGE A last Slot
+Station: check for sending, Current: 7 Reserved: none, CurrentTime 1496179299249
+Station: next slot in time 1496179299249 wait 31
+wait for next_slot 
+Station: 1496179299280: 280 -> 8 40
+got no message last Slot
+Station: check for sending, Current: 8 Reserved: none, CurrentTime 1496179299280
+Station: next slot in time 1496179299280 wait 40
+wait for next_slot 
+Station: 1496179299327: 327 -> 9 40
+--COLLISION-- last Slot
+Station: check for sending, Current: 9 Reserved: none, CurrentTime 1496179299327
+Station: next slot in time 1496179299327 wait 33
+wait for next_slot 
+Station: 1496179299373: 373 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: none, CurrentTime 1496179299373
+Station: next slot in time 1496179299373 wait 27
+wait for next_slot 
+Station: 1496179299405: 405 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: none, CurrentTime 1496179299405
+Station: next slot in time 1496179299405 wait 35
+wait for next_slot 
+Station: 1496179299451: 451 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: none, CurrentTime 1496179299451
+Station: next slot in time 1496179299451 wait 29
+wait for next_slot 
+Station: 1496179299483: 483 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: none, CurrentTime 1496179299483
+Station: next slot in time 1496179299483 wait 37
+wait for next_slot 
+Station: 1496179299529: 529 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: none, CurrentTime 1496179299529
+Station: next slot in time 1496179299529 wait 31
+wait for next_slot 
+---starting Station---
+started all modules
+1496179349082: started frame timer: 38
+wait for next_slot 
+Station: 1496179349145: 145 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: none, CurrentTime 1496179349145
+Station: next slot in time 1496179349145 wait 15
+wait for next_slot 
+Station: 1496179349160: 160 -> 5 40
+got no message last Slot
+Station: check for sending, Current: 5 Reserved: none, CurrentTime 1496179349160
+Station: next slot in time 1496179349160 wait 40
+wait for next_slot 
+Station: 1496179349207: 207 -> 6 40
+got no message last Slot
+Station: check for sending, Current: 6 Reserved: none, CurrentTime 1496179349207
+Station: next slot in time 1496179349207 wait 33
+wait for next_slot 
+Station: 1496179349254: 254 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: none, CurrentTime 1496179349254
+Station: next slot in time 1496179349254 wait 26
+wait for next_slot 
+Station: 1496179349285: 285 -> 8 40
+got no message last Slot
+Station: check for sending, Current: 8 Reserved: none, CurrentTime 1496179349285
+Station: next slot in time 1496179349285 wait 35
+wait for next_slot 
+Station: 1496179349332: 332 -> 9 40
+got no message last Slot
+Station: check for sending, Current: 9 Reserved: none, CurrentTime 1496179349332
+Station: next slot in time 1496179349332 wait 28
+wait for next_slot 
+Station: 1496179349363: 363 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: none, CurrentTime 1496179349363
+Station: next slot in time 1496179349363 wait 37
+wait for next_slot 
+Station: 1496179349410: 410 -> 11 40
+got no message last Slot
+Station: check for sending, Current: 11 Reserved: none, CurrentTime 1496179349410
+Station: next slot in time 1496179349410 wait 30
+wait for next_slot 
+Station: 1496179349441: 441 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: none, CurrentTime 1496179349441
+Station: next slot in time 1496179349441 wait 39
+wait for next_slot 
+Station: 1496179349488: 488 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: none, CurrentTime 1496179349488
+Station: next slot in time 1496179349488 wait 32
+wait for next_slot 
+Station: 1496179349535: 535 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: none, CurrentTime 1496179349535
+Station: next slot in time 1496179349535 wait 25
+wait for next_slot 
+Station: 1496179349566: 566 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: none, CurrentTime 1496179349566
+Station: next slot in time 1496179349566 wait 34
+wait for next_slot 
+Station: 1496179349613: 613 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: none, CurrentTime 1496179349613
+Station: next slot in time 1496179349613 wait 27
+wait for next_slot 
+Station: 1496179349644: 644 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: none, CurrentTime 1496179349644
+Station: next slot in time 1496179349644 wait 36
+wait for next_slot 
+Station: 1496179349691: 691 -> 18 40
+got no message last Slot
+Station: check for sending, Current: 18 Reserved: none, CurrentTime 1496179349691
+Station: next slot in time 1496179349691 wait 29
+wait for next_slot 
+Station: 1496179349722: 722 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: none, CurrentTime 1496179349722
+Station: next slot in time 1496179349722 wait 38
+wait for next_slot 
+Station: 1496179349769: 769 -> 20 40
+got no message last Slot
+Station: check for sending, Current: 20 Reserved: none, CurrentTime 1496179349769
+Station: next slot in time 1496179349769 wait 31
+wait for next_slot 
+Station: 1496179349800: 800 -> 21 40
+got no message last Slot
+Station: check for sending, Current: 21 Reserved: none, CurrentTime 1496179349800
+Station: next slot in time 1496179349800 wait 40
+wait for next_slot 
+Station: 1496179349847: 847 -> 22 40
+got no message last Slot
+Station: check for sending, Current: 22 Reserved: none, CurrentTime 1496179349847
+Station: next slot in time 1496179349847 wait 33
+wait for next_slot 
+Station: 1496179349893: 893 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: none, CurrentTime 1496179349893
+Station: next slot in time 1496179349893 wait 27
+wait for next_slot 
+Station: 1496179349925: 925 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: none, CurrentTime 1496179349925
+Station: next slot in time 1496179349925 wait 35
+wait for next_slot 
+Station: 1496179349971: 971 -> 25 40
+got no message last Slot
+Station: check for sending, Current: 25 Reserved: none, CurrentTime 1496179349971
+Station: next slot in time 1496179349971 wait 29
+wait for next_slot 
+Station: 1496179350003: 3 -> 1 40
+got no message last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: none, CurrentTime 1496179350003
+Station: next slot in time 1496179350003 wait 37
+wait for next_slot 
+Station: 1496179350049: 49 -> 2 40
+MESSAGE A last Slot
+Station: check for sending, Current: 2 Reserved: none, CurrentTime 1496179350049
+Station: next slot in time 1496179350049 wait 31
+wait for next_slot 
+Station: 1496179350081: 81 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: none, CurrentTime 1496179350081
+Station: next slot in time 1496179350081 wait 39
+wait for next_slot 
+Station: 1496179350127: 127 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: none, CurrentTime 1496179350127
+Station: next slot in time 1496179350127 wait 33
+wait for next_slot 
+Station: 1496179350174: 174 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: none, CurrentTime 1496179350174
+Station: next slot in time 1496179350174 wait 26
+wait for next_slot 
+Station: 1496179350205: 205 -> 6 40
+MESSAGE A last Slot
+Station: check for sending, Current: 6 Reserved: none, CurrentTime 1496179350205
+Station: next slot in time 1496179350205 wait 35
+wait for next_slot 
+Station: 1496179350252: 252 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: none, CurrentTime 1496179350252
+Station: next slot in time 1496179350252 wait 28
+wait for next_slot 
+Station: 1496179350283: 283 -> 8 40
+MESSAGE A last Slot
+Station: check for sending, Current: 8 Reserved: none, CurrentTime 1496179350283
+Station: next slot in time 1496179350283 wait 37
+wait for next_slot 
+Station: 1496179350330: 330 -> 9 40
+MESSAGE A last Slot
+Station: check for sending, Current: 9 Reserved: none, CurrentTime 1496179350330
+Station: next slot in time 1496179350330 wait 30
+wait for next_slot 
+Station: 1496179350361: 361 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: none, CurrentTime 1496179350361
+Station: next slot in time 1496179350361 wait 39
+wait for next_slot 
+Station: 1496179350408: 408 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: none, CurrentTime 1496179350408
+Station: next slot in time 1496179350408 wait 32
+wait for next_slot 
+Station: 1496179350455: 455 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: none, CurrentTime 1496179350455
+Station: next slot in time 1496179350455 wait 25
+wait for next_slot 
+Station: 1496179350486: 486 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: none, CurrentTime 1496179350486
+Station: next slot in time 1496179350486 wait 34
+wait for next_slot 
+Station: 1496179350533: 533 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: none, CurrentTime 1496179350533
+Station: next slot in time 1496179350533 wait 27
+wait for next_slot 
+Station: 1496179350564: 564 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: none, CurrentTime 1496179350564
+Station: next slot in time 1496179350564 wait 36
+wait for next_slot 
+Station: 1496179350611: 611 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: none, CurrentTime 1496179350611
+Station: next slot in time 1496179350611 wait 29
+wait for next_slot 
+Station: 1496179350642: 642 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: none, CurrentTime 1496179350642
+Station: next slot in time 1496179350642 wait 38
+wait for next_slot 
+Station: 1496179350689: 689 -> 18 40
+MESSAGE A last Slot
+Station: check for sending, Current: 18 Reserved: none, CurrentTime 1496179350689
+Station: next slot in time 1496179350689 wait 31
+wait for next_slot 
+Station: 1496179350720: 720 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: none, CurrentTime 1496179350720
+Station: next slot in time 1496179350720 wait 40
+wait for next_slot 
+Station: 1496179350767: 767 -> 20 40
+got no message last Slot
+Station: check for sending, Current: 20 Reserved: none, CurrentTime 1496179350767
+Station: next slot in time 1496179350767 wait 33
+wait for next_slot 
+Station: 1496179350814: 814 -> 21 40
+MESSAGE A last Slot
+Station: check for sending, Current: 21 Reserved: none, CurrentTime 1496179350814
+Station: next slot in time 1496179350814 wait 26
+wait for next_slot 
+Station: 1496179350845: 845 -> 22 40
+MESSAGE A last Slot
+Station: check for sending, Current: 22 Reserved: none, CurrentTime 1496179350845
+Station: next slot in time 1496179350845 wait 35
+wait for next_slot 
+Station: 1496179350892: 892 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: none, CurrentTime 1496179350892
+Station: next slot in time 1496179350892 wait 28
+wait for next_slot 
+Station: 1496179350923: 923 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: none, CurrentTime 1496179350923
+Station: next slot in time 1496179350923 wait 37
+wait for next_slot 
+Station: 1496179350970: 970 -> 25 40
+MESSAGE A last Slot
+Station: check for sending, Current: 25 Reserved: none, CurrentTime 1496179350970
+Station: next slot in time 1496179350970 wait 30
+wait for next_slot 
+Station: 1496179351001: 1 -> 1 40
+got no message last Slot
+=== new frame ===
+Station: new entry with slot: 19
+Station: check for sending, Current: 1 Reserved: 19, CurrentTime 1496179351001
+Station: next slot in time 1496179350998 wait 2
+wait for next_slot 
+Station: 1496179351014: 14 -> 1 40
+MESSAGE A last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: 19, CurrentTime 1496179351014
+Station: next slot in time 1496179351014 wait 26
+wait for next_slot 
+Station: 1496179351045: 45 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: 19, CurrentTime 1496179351045
+Station: next slot in time 1496179351045 wait 35
+wait for next_slot 
+Station: 1496179351092: 92 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: 19, CurrentTime 1496179351092
+Station: next slot in time 1496179351092 wait 28
+wait for next_slot 
+Station: 1496179351123: 123 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: 19, CurrentTime 1496179351123
+Station: next slot in time 1496179351123 wait 37
+wait for next_slot 
+Station: 1496179351170: 170 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: 19, CurrentTime 1496179351170
+Station: next slot in time 1496179351170 wait 30
+wait for next_slot 
+Station: 1496179351201: 201 -> 6 40
+MESSAGE A last Slot
+Station: check for sending, Current: 6 Reserved: 19, CurrentTime 1496179351201
+Station: next slot in time 1496179351201 wait 39
+wait for next_slot 
+Station: 1496179351248: 248 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: 19, CurrentTime 1496179351248
+Station: next slot in time 1496179351248 wait 32
+wait for next_slot 
+Station: 1496179351294: 294 -> 8 40
+MESSAGE A last Slot
+Station: check for sending, Current: 8 Reserved: 19, CurrentTime 1496179351294
+Station: next slot in time 1496179351294 wait 26
+wait for next_slot 
+Station: 1496179351326: 326 -> 9 40
+MESSAGE A last Slot
+Station: check for sending, Current: 9 Reserved: 19, CurrentTime 1496179351326
+Station: next slot in time 1496179351326 wait 34
+wait for next_slot 
+Station: 1496179351372: 372 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: 19, CurrentTime 1496179351372
+Station: next slot in time 1496179351372 wait 28
+wait for next_slot 
+Station: 1496179351404: 404 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: 19, CurrentTime 1496179351404
+Station: next slot in time 1496179351404 wait 36
+wait for next_slot 
+Station: 1496179351450: 450 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: 19, CurrentTime 1496179351450
+Station: next slot in time 1496179351450 wait 30
+wait for next_slot 
+Station: 1496179351482: 482 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: 19, CurrentTime 1496179351482
+Station: next slot in time 1496179351482 wait 38
+wait for next_slot 
+Station: 1496179351528: 528 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: 19, CurrentTime 1496179351528
+Station: next slot in time 1496179351528 wait 32
+wait for next_slot 
+Station: 1496179351575: 575 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: 19, CurrentTime 1496179351575
+Station: next slot in time 1496179351575 wait 25
+wait for next_slot 
+Station: 1496179351606: 606 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: 19, CurrentTime 1496179351606
+Station: next slot in time 1496179351606 wait 34
+wait for next_slot 
+Station: 1496179351653: 653 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: 19, CurrentTime 1496179351653
+Station: next slot in time 1496179351653 wait 27
+wait for next_slot 
+Station: 1496179351684: 684 -> 18 40
+MESSAGE A last Slot
+Station: check for sending, Current: 18 Reserved: 19, CurrentTime 1496179351684
+Station: next slot in time 1496179351684 wait 36
+wait for next_slot 
+Station: 1496179351731: 731 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: 19, CurrentTime 1496179351731
+Station: Sent message, next Reservation: 19
+Station: next slot in time 1496179351731 wait 29
+wait for next_slot 
+Station: 1496179351762: 762 -> 20 40
+MESSAGE A last Slot
+Station: check for sending, Current: 20 Reserved: 19, CurrentTime 1496179351762
+Station: next slot in time 1496179351762 wait 38
+wait for next_slot 
+Station: 1496179351809: 809 -> 21 40
+MESSAGE A last Slot
+Station: check for sending, Current: 21 Reserved: 19, CurrentTime 1496179351809
+Station: next slot in time 1496179351809 wait 31
+wait for next_slot 
+Station: 1496179351840: 840 -> 22 40
+MESSAGE A last Slot
+Station: check for sending, Current: 22 Reserved: 19, CurrentTime 1496179351840
+Station: next slot in time 1496179351840 wait 40
+wait for next_slot 
+Station: 1496179351887: 887 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: 19, CurrentTime 1496179351887
+Station: next slot in time 1496179351887 wait 33
+wait for next_slot 
+Station: 1496179351934: 934 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: 19, CurrentTime 1496179351934
+Station: next slot in time 1496179351934 wait 26
+wait for next_slot 
+Station: 1496179351965: 965 -> 25 40
+MESSAGE A last Slot
+Station: check for sending, Current: 25 Reserved: 19, CurrentTime 1496179351965
+Station: next slot in time 1496179351965 wait 35
+wait for next_slot 
+Station: 1496179352012: 12 -> 1 40
+MESSAGE A last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: 19, CurrentTime 1496179352012
+Station: next slot in time 1496179352012 wait 28
+wait for next_slot 
+Station: 1496179352043: 43 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: 19, CurrentTime 1496179352043
+Station: next slot in time 1496179352043 wait 37
+wait for next_slot 
+Station: 1496179352090: 90 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: 19, CurrentTime 1496179352090
+Station: next slot in time 1496179352090 wait 30
+wait for next_slot 
+Station: 1496179352121: 121 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: 19, CurrentTime 1496179352121
+Station: next slot in time 1496179352121 wait 39
+wait for next_slot 
+Station: 1496179352168: 168 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: 19, CurrentTime 1496179352168
+Station: next slot in time 1496179352168 wait 32
+wait for next_slot 
+Station: 1496179352215: 215 -> 6 40
+MESSAGE A last Slot
+Station: check for sending, Current: 6 Reserved: 19, CurrentTime 1496179352215
+Station: next slot in time 1496179352215 wait 25
+wait for next_slot 
+Station: 1496179352246: 246 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: 19, CurrentTime 1496179352246
+Station: next slot in time 1496179352246 wait 34
+wait for next_slot 
+Station: 1496179352293: 293 -> 8 40
+MESSAGE A last Slot
+Station: check for sending, Current: 8 Reserved: 19, CurrentTime 1496179352293
+Station: next slot in time 1496179352293 wait 27
+wait for next_slot 
+Station: 1496179352324: 324 -> 9 40
+MESSAGE A last Slot
+Station: check for sending, Current: 9 Reserved: 19, CurrentTime 1496179352324
+Station: next slot in time 1496179352324 wait 36
+wait for next_slot 
+Station: 1496179352371: 371 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: 19, CurrentTime 1496179352371
+Station: next slot in time 1496179352371 wait 29
+wait for next_slot 
+Station: 1496179352402: 402 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: 19, CurrentTime 1496179352402
+Station: next slot in time 1496179352402 wait 38
+wait for next_slot 
+Station: 1496179352449: 449 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: 19, CurrentTime 1496179352449
+Station: next slot in time 1496179352449 wait 31
+wait for next_slot 
+Station: 1496179352480: 480 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: 19, CurrentTime 1496179352480
+Station: next slot in time 1496179352480 wait 40
+wait for next_slot 
+Station: 1496179352527: 527 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: 19, CurrentTime 1496179352527
+Station: next slot in time 1496179352527 wait 33
+wait for next_slot 
+Station: 1496179352574: 574 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: 19, CurrentTime 1496179352574
+Station: next slot in time 1496179352574 wait 26
+wait for next_slot 
+Station: 1496179352605: 605 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: 19, CurrentTime 1496179352605
+Station: next slot in time 1496179352605 wait 35
+wait for next_slot 
+Station: 1496179352652: 652 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: 19, CurrentTime 1496179352652
+Station: next slot in time 1496179352652 wait 28
+wait for next_slot 
+Station: 1496179352683: 683 -> 18 40
+MESSAGE A last Slot
+Station: check for sending, Current: 18 Reserved: 19, CurrentTime 1496179352683
+Station: next slot in time 1496179352683 wait 37
+wait for next_slot 
+Station: 1496179352730: 730 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: 19, CurrentTime 1496179352730
+Station: Sent message, next Reservation: 23
+Station: next slot in time 1496179352730 wait 30
+wait for next_slot 
+Station: 1496179352761: 761 -> 20 40
+MESSAGE A last Slot
+Station: check for sending, Current: 20 Reserved: 23, CurrentTime 1496179352761
+Station: next slot in time 1496179352761 wait 39
+wait for next_slot 
+Station: 1496179352808: 808 -> 21 40
+MESSAGE A last Slot
+Station: check for sending, Current: 21 Reserved: 23, CurrentTime 1496179352808
+Station: next slot in time 1496179352808 wait 32
+wait for next_slot 
+Station: 1496179352854: 854 -> 22 40
+MESSAGE A last Slot
+Station: check for sending, Current: 22 Reserved: 23, CurrentTime 1496179352854
+Station: next slot in time 1496179352854 wait 26
+wait for next_slot 
+Station: 1496179352886: 886 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: 23, CurrentTime 1496179352886
+Station: next slot in time 1496179352886 wait 34
+wait for next_slot 
+Station: 1496179352932: 932 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: 23, CurrentTime 1496179352932
+Station: next slot in time 1496179352932 wait 28
+wait for next_slot 
+Station: 1496179352964: 964 -> 25 40
+MESSAGE A last Slot
+Station: check for sending, Current: 25 Reserved: 23, CurrentTime 1496179352964
+Station: next slot in time 1496179352964 wait 36
+wait for next_slot 
+Station: 1496179353010: 10 -> 1 40
+MESSAGE A last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: 23, CurrentTime 1496179353010
+Station: next slot in time 1496179353010 wait 30
+wait for next_slot 
+Station: 1496179353042: 42 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: 23, CurrentTime 1496179353042
+Station: next slot in time 1496179353042 wait 38
+wait for next_slot 
+Station: 1496179353088: 88 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: 23, CurrentTime 1496179353088
+Station: next slot in time 1496179353088 wait 32
+wait for next_slot 
+Station: 1496179353135: 135 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: 23, CurrentTime 1496179353135
+Station: next slot in time 1496179353135 wait 25
+wait for next_slot 
+Station: 1496179353166: 166 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: 23, CurrentTime 1496179353166
+Station: next slot in time 1496179353166 wait 34
+wait for next_slot 
+Station: 1496179353213: 213 -> 6 40
+MESSAGE A last Slot
+Station: check for sending, Current: 6 Reserved: 23, CurrentTime 1496179353213
+Station: next slot in time 1496179353213 wait 27
+wait for next_slot 
+Station: 1496179353244: 244 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: 23, CurrentTime 1496179353244
+Station: next slot in time 1496179353244 wait 36
+wait for next_slot 
+Station: 1496179353291: 291 -> 8 40
+MESSAGE A last Slot
+Station: check for sending, Current: 8 Reserved: 23, CurrentTime 1496179353291
+Station: next slot in time 1496179353291 wait 29
+wait for next_slot 
+Station: 1496179353322: 322 -> 9 40
+MESSAGE A last Slot
+Station: check for sending, Current: 9 Reserved: 23, CurrentTime 1496179353322
+Station: next slot in time 1496179353322 wait 38
+wait for next_slot 
+Station: 1496179353369: 369 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: 23, CurrentTime 1496179353369
+Station: next slot in time 1496179353369 wait 31
+wait for next_slot 
+Station: 1496179353400: 400 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: 23, CurrentTime 1496179353400
+Station: next slot in time 1496179353400 wait 40
+wait for next_slot 
+Station: 1496179353447: 447 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: 23, CurrentTime 1496179353447
+Station: next slot in time 1496179353447 wait 33
+wait for next_slot 
+Station: 1496179353494: 494 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: 23, CurrentTime 1496179353494
+Station: next slot in time 1496179353494 wait 26
+wait for next_slot 
+Station: 1496179353525: 525 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: 23, CurrentTime 1496179353525
+Station: next slot in time 1496179353525 wait 35
+wait for next_slot 
+Station: 1496179353572: 572 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: 23, CurrentTime 1496179353572
+Station: next slot in time 1496179353572 wait 28
+wait for next_slot 
+Station: 1496179353603: 603 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: 23, CurrentTime 1496179353603
+Station: next slot in time 1496179353603 wait 37
+wait for next_slot 
+Station: 1496179353650: 650 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: 23, CurrentTime 1496179353650
+Station: next slot in time 1496179353650 wait 30
+wait for next_slot 
+Station: 1496179353681: 681 -> 18 40
+MESSAGE A last Slot
+Station: check for sending, Current: 18 Reserved: 23, CurrentTime 1496179353681
+Station: next slot in time 1496179353681 wait 39
+wait for next_slot 
+Station: 1496179353728: 728 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: 23, CurrentTime 1496179353728
+Station: next slot in time 1496179353728 wait 32
+wait for next_slot 
+Station: 1496179353775: 775 -> 20 40
+got no message last Slot
+Station: check for sending, Current: 20 Reserved: 23, CurrentTime 1496179353775
+Station: next slot in time 1496179353775 wait 25
+wait for next_slot 
+Station: 1496179353806: 806 -> 21 40
+MESSAGE A last Slot
+Station: check for sending, Current: 21 Reserved: 23, CurrentTime 1496179353806
+Station: next slot in time 1496179353806 wait 34
+wait for next_slot 
+Station: 1496179353853: 853 -> 22 40
+MESSAGE A last Slot
+Station: check for sending, Current: 22 Reserved: 23, CurrentTime 1496179353853
+Station: next slot in time 1496179353853 wait 27
+wait for next_slot 
+Station: 1496179353884: 884 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: 23, CurrentTime 1496179353884
+Station: Sent message, next Reservation: 3
+Station: next slot in time 1496179353884 wait 36
+wait for next_slot 
+Station: 1496179353931: 931 -> 24 40
+MESSAGE A last Slot
+Station: check for sending, Current: 24 Reserved: 3, CurrentTime 1496179353931
+Station: next slot in time 1496179353931 wait 29
+wait for next_slot 
+Station: 1496179353962: 962 -> 25 40
+MESSAGE A last Slot
+Station: check for sending, Current: 25 Reserved: 3, CurrentTime 1496179353962
+Station: next slot in time 1496179353962 wait 38
+wait for next_slot 
+Station: 1496179354009: 9 -> 1 40
+MESSAGE A last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: 3, CurrentTime 1496179354009
+Station: next slot in time 1496179354009 wait 31
+wait for next_slot 
+Station: 1496179354040: 40 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: 3, CurrentTime 1496179354040
+Station: next slot in time 1496179354040 wait 40
+wait for next_slot 
+Station: 1496179354087: 87 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: 3, CurrentTime 1496179354087
+Station: Sent message, next Reservation: 3
+Station: next slot in time 1496179354087 wait 33
+wait for next_slot 
+Station: 1496179354134: 134 -> 4 40
+MESSAGE A last Slot
+Station: check for sending, Current: 4 Reserved: 3, CurrentTime 1496179354134
+Station: next slot in time 1496179354134 wait 26
+wait for next_slot 
+Station: 1496179354165: 165 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: 3, CurrentTime 1496179354165
+Station: next slot in time 1496179354165 wait 35
+wait for next_slot 
+Station: 1496179354212: 212 -> 6 40
+MESSAGE A last Slot
+Station: check for sending, Current: 6 Reserved: 3, CurrentTime 1496179354212
+Station: next slot in time 1496179354212 wait 28
+wait for next_slot 
+Station: 1496179354243: 243 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: 3, CurrentTime 1496179354243
+Station: next slot in time 1496179354243 wait 37
+wait for next_slot 
+Station: 1496179354290: 290 -> 8 40
+MESSAGE A last Slot
+Station: check for sending, Current: 8 Reserved: 3, CurrentTime 1496179354290
+Station: next slot in time 1496179354290 wait 30
+wait for next_slot 
+Station: 1496179354321: 321 -> 9 40
+MESSAGE A last Slot
+Station: check for sending, Current: 9 Reserved: 3, CurrentTime 1496179354321
+Station: next slot in time 1496179354321 wait 39
+wait for next_slot 
+Station: 1496179354368: 368 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: 3, CurrentTime 1496179354368
+Station: next slot in time 1496179354368 wait 32
+wait for next_slot 
+Station: 1496179354415: 415 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: 3, CurrentTime 1496179354415
+Station: next slot in time 1496179354415 wait 25
+wait for next_slot 
+Station: 1496179354446: 446 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: 3, CurrentTime 1496179354446
+Station: next slot in time 1496179354446 wait 34
+wait for next_slot 
+Station: 1496179354493: 493 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: 3, CurrentTime 1496179354493
+Station: next slot in time 1496179354493 wait 27
+wait for next_slot 
+Station: 1496179354524: 524 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: 3, CurrentTime 1496179354524
+Station: next slot in time 1496179354524 wait 36
+wait for next_slot 
+Station: 1496179354571: 571 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: 3, CurrentTime 1496179354571
+Station: next slot in time 1496179354571 wait 29
+wait for next_slot 
+Station: 1496179354602: 602 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: 3, CurrentTime 1496179354602
+Station: next slot in time 1496179354602 wait 38
+wait for next_slot 
+Station: 1496179354649: 649 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: 3, CurrentTime 1496179354649
+Station: next slot in time 1496179354649 wait 31
+wait for next_slot 
+Station: 1496179354680: 680 -> 18 40
+MESSAGE A last Slot
+Station: check for sending, Current: 18 Reserved: 3, CurrentTime 1496179354680
+Station: next slot in time 1496179354680 wait 40
+wait for next_slot 
+Station: 1496179354727: 727 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: 3, CurrentTime 1496179354727
+Station: next slot in time 1496179354727 wait 33
+wait for next_slot 
+Station: 1496179354773: 773 -> 20 40
+got no message last Slot
+Station: check for sending, Current: 20 Reserved: 3, CurrentTime 1496179354773
+Station: next slot in time 1496179354773 wait 27
+wait for next_slot 
+Station: 1496179354805: 805 -> 21 40
+MESSAGE A last Slot
+Station: check for sending, Current: 21 Reserved: 3, CurrentTime 1496179354805
+Station: next slot in time 1496179354805 wait 35
+wait for next_slot 
+Station: 1496179354851: 851 -> 22 40
+MESSAGE A last Slot
+Station: check for sending, Current: 22 Reserved: 3, CurrentTime 1496179354851
+Station: next slot in time 1496179354851 wait 29
+wait for next_slot 
+Station: 1496179354883: 883 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: 3, CurrentTime 1496179354883
+Station: next slot in time 1496179354883 wait 37
+wait for next_slot 
+Station: 1496179354929: 929 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: 3, CurrentTime 1496179354929
+Station: next slot in time 1496179354929 wait 31
+wait for next_slot 
+Station: 1496179354961: 961 -> 25 40
+MESSAGE A last Slot
+Station: check for sending, Current: 25 Reserved: 3, CurrentTime 1496179354961
+Station: next slot in time 1496179354961 wait 39
+wait for next_slot 
+Station: 1496179355007: 7 -> 1 40
+MESSAGE A last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: 3, CurrentTime 1496179355007
+Station: next slot in time 1496179355007 wait 33
+wait for next_slot 
+Station: 1496179355054: 54 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: 3, CurrentTime 1496179355054
+Station: next slot in time 1496179355054 wait 26
+wait for next_slot 
+Station: 1496179355085: 85 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: 3, CurrentTime 1496179355085
+Station: Sent message, next Reservation: 25
+Station: next slot in time 1496179355085 wait 35
+wait for next_slot 
+Station: 1496179355132: 132 -> 4 40
+MESSAGE A last Slot
+Station: check for sending, Current: 4 Reserved: 25, CurrentTime 1496179355132
+Station: next slot in time 1496179355132 wait 28
+wait for next_slot 
+Station: 1496179355163: 163 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: 25, CurrentTime 1496179355163
+Station: next slot in time 1496179355163 wait 37
+wait for next_slot 
+Station: 1496179355210: 210 -> 6 40
+MESSAGE A last Slot
+Station: check for sending, Current: 6 Reserved: 25, CurrentTime 1496179355210
+Station: next slot in time 1496179355210 wait 30
+wait for next_slot 
+Station: 1496179355241: 241 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: 25, CurrentTime 1496179355241
+Station: next slot in time 1496179355241 wait 39
+wait for next_slot 
+Station: 1496179355288: 288 -> 8 40
+MESSAGE A last Slot
+Station: check for sending, Current: 8 Reserved: 25, CurrentTime 1496179355288
+Station: next slot in time 1496179355288 wait 32
+wait for next_slot 
+Station: 1496179355335: 335 -> 9 40
+MESSAGE A last Slot
+Station: check for sending, Current: 9 Reserved: 25, CurrentTime 1496179355335
+Station: next slot in time 1496179355335 wait 25
+wait for next_slot 
+Station: 1496179355366: 366 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: 25, CurrentTime 1496179355366
+Station: next slot in time 1496179355366 wait 34
+wait for next_slot 
+Station: 1496179355413: 413 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: 25, CurrentTime 1496179355413
+Station: next slot in time 1496179355413 wait 27
+wait for next_slot 
+Station: 1496179355444: 444 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: 25, CurrentTime 1496179355444
+Station: next slot in time 1496179355444 wait 36
+wait for next_slot 
+Station: 1496179355491: 491 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: 25, CurrentTime 1496179355491
+Station: next slot in time 1496179355491 wait 29
+wait for next_slot 
+Station: 1496179355522: 522 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: 25, CurrentTime 1496179355522
+Station: next slot in time 1496179355522 wait 38
+wait for next_slot 
+Station: 1496179355569: 569 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: 25, CurrentTime 1496179355569
+Station: next slot in time 1496179355569 wait 31
+wait for next_slot 
+Station: 1496179355600: 600 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: 25, CurrentTime 1496179355600
+Station: next slot in time 1496179355600 wait 40
+wait for next_slot 
+Station: 1496179355647: 647 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: 25, CurrentTime 1496179355647
+Station: next slot in time 1496179355647 wait 33
+wait for next_slot 
+Station: 1496179355694: 694 -> 18 40
+MESSAGE A last Slot
+Station: check for sending, Current: 18 Reserved: 25, CurrentTime 1496179355694
+Station: next slot in time 1496179355694 wait 26
+wait for next_slot 
+Station: 1496179355725: 725 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: 25, CurrentTime 1496179355725
+Station: next slot in time 1496179355725 wait 35
+wait for next_slot 
+Station: 1496179355772: 772 -> 20 40
+got no message last Slot
+Station: check for sending, Current: 20 Reserved: 25, CurrentTime 1496179355772
+Station: next slot in time 1496179355772 wait 28
+wait for next_slot 
+Station: 1496179355803: 803 -> 21 40
+MESSAGE A last Slot
+Station: check for sending, Current: 21 Reserved: 25, CurrentTime 1496179355803
+Station: next slot in time 1496179355803 wait 37
+wait for next_slot 
+Station: 1496179355850: 850 -> 22 40
+MESSAGE A last Slot
+Station: check for sending, Current: 22 Reserved: 25, CurrentTime 1496179355850
+Station: next slot in time 1496179355850 wait 30
+wait for next_slot 
+Station: 1496179355881: 881 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: 25, CurrentTime 1496179355881
+Station: next slot in time 1496179355881 wait 39
+wait for next_slot 
+Station: 1496179355928: 928 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: 25, CurrentTime 1496179355928
+Station: next slot in time 1496179355928 wait 32
+wait for next_slot 
+Station: 1496179355975: 975 -> 25 40
+MESSAGE A last Slot
+Station: check for sending, Current: 25 Reserved: 25, CurrentTime 1496179355975
+Station: next slot in time 1496179355975 wait 25
+wait for next_slot 
+Station: 1496179356006: 6 -> 1 40
+MESSAGE A last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: 25, CurrentTime 1496179356006
+Station: next slot in time 1496179356006 wait 34
+wait for next_slot 
+Station: 1496179356053: 53 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: 25, CurrentTime 1496179356053
+Station: next slot in time 1496179356053 wait 27
+wait for next_slot 
+Station: 1496179356084: 84 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: 25, CurrentTime 1496179356084
+Station: next slot in time 1496179356084 wait 36
+wait for next_slot 
+Station: 1496179356131: 131 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: 25, CurrentTime 1496179356131
+Station: next slot in time 1496179356131 wait 29
+wait for next_slot 
+Station: 1496179356162: 162 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: 25, CurrentTime 1496179356162
+Station: next slot in time 1496179356162 wait 38
+wait for next_slot 
+Station: 1496179356209: 209 -> 6 40
+MESSAGE A last Slot
+Station: check for sending, Current: 6 Reserved: 25, CurrentTime 1496179356209
+Station: next slot in time 1496179356209 wait 31
+wait for next_slot 
+Station: 1496179356240: 240 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: 25, CurrentTime 1496179356240
+Station: next slot in time 1496179356240 wait 40
+wait for next_slot 
+Station: 1496179356287: 287 -> 8 40
+MESSAGE A last Slot
+Station: check for sending, Current: 8 Reserved: 25, CurrentTime 1496179356287
+Station: next slot in time 1496179356287 wait 33
+wait for next_slot 
+Station: 1496179356333: 333 -> 9 40
+MESSAGE A last Slot
+Station: check for sending, Current: 9 Reserved: 25, CurrentTime 1496179356333
+Station: next slot in time 1496179356333 wait 27
+wait for next_slot 
+Station: 1496179356365: 365 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: 25, CurrentTime 1496179356365
+Station: next slot in time 1496179356365 wait 35
+wait for next_slot 
+Station: 1496179356411: 411 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: 25, CurrentTime 1496179356411
+Station: next slot in time 1496179356411 wait 29
+wait for next_slot 
+Station: 1496179356443: 443 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: 25, CurrentTime 1496179356443
+Station: next slot in time 1496179356443 wait 37
+wait for next_slot 
+Station: 1496179356489: 489 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: 25, CurrentTime 1496179356489
+Station: next slot in time 1496179356489 wait 31
+wait for next_slot 
+Station: 1496179356521: 521 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: 25, CurrentTime 1496179356521
+Station: next slot in time 1496179356521 wait 39
+wait for next_slot 
+Station: 1496179356567: 567 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: 25, CurrentTime 1496179356567
+Station: next slot in time 1496179356567 wait 33
+wait for next_slot 
+Station: 1496179356614: 614 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: 25, CurrentTime 1496179356614
+Station: next slot in time 1496179356614 wait 26
+wait for next_slot 
+Station: 1496179356645: 645 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: 25, CurrentTime 1496179356645
+Station: next slot in time 1496179356645 wait 35
+wait for next_slot 
+Station: 1496179356692: 692 -> 18 40
+MESSAGE A last Slot
+Station: check for sending, Current: 18 Reserved: 25, CurrentTime 1496179356692
+Station: next slot in time 1496179356692 wait 28
+wait for next_slot 
+Station: 1496179356723: 723 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: 25, CurrentTime 1496179356723
+Station: next slot in time 1496179356723 wait 37
+wait for next_slot 
+Station: 1496179356770: 770 -> 20 40
+got no message last Slot
+Station: check for sending, Current: 20 Reserved: 25, CurrentTime 1496179356770
+Station: next slot in time 1496179356770 wait 30
+wait for next_slot 
+Station: 1496179356801: 801 -> 21 40
+MESSAGE A last Slot
+Station: check for sending, Current: 21 Reserved: 25, CurrentTime 1496179356801
+Station: next slot in time 1496179356801 wait 39
+wait for next_slot 
+Station: 1496179356848: 848 -> 22 40
+MESSAGE A last Slot
+Station: check for sending, Current: 22 Reserved: 25, CurrentTime 1496179356848
+Station: next slot in time 1496179356848 wait 32
+wait for next_slot 
+Station: 1496179356895: 895 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: 25, CurrentTime 1496179356895
+Station: next slot in time 1496179356895 wait 25
+wait for next_slot 
+Station: 1496179356926: 926 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: 25, CurrentTime 1496179356926
+Station: next slot in time 1496179356926 wait 34
+wait for next_slot 
+Station: 1496179356973: 973 -> 25 40
+MESSAGE A last Slot
+Station: check for sending, Current: 25 Reserved: 25, CurrentTime 1496179356973
+Station: Sent message, next Reservation: 19
+Station: next slot in time 1496179356973 wait 27
+wait for next_slot 
+Station: 1496179357004: 4 -> 1 40
+--COLLISION-- last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: 19, CurrentTime 1496179357004
+Station: next slot in time 1496179357004 wait 36
+wait for next_slot 
+Station: 1496179357051: 51 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: 19, CurrentTime 1496179357051
+Station: next slot in time 1496179357051 wait 29
+wait for next_slot 
+Station: 1496179357082: 82 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: 19, CurrentTime 1496179357082
+Station: next slot in time 1496179357082 wait 38
+wait for next_slot 
+Station: 1496179357129: 129 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: 19, CurrentTime 1496179357129
+Station: next slot in time 1496179357129 wait 31
+wait for next_slot 
+Station: 1496179357160: 160 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: 19, CurrentTime 1496179357160
+Station: next slot in time 1496179357160 wait 40
+wait for next_slot 
+Station: 1496179357207: 207 -> 6 40
+MESSAGE A last Slot
+Station: check for sending, Current: 6 Reserved: 19, CurrentTime 1496179357207
+Station: next slot in time 1496179357207 wait 33
+wait for next_slot 
+Station: 1496179357254: 254 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: 19, CurrentTime 1496179357254
+Station: next slot in time 1496179357254 wait 26
+wait for next_slot 
+Station: 1496179357285: 285 -> 8 40
+MESSAGE A last Slot
+Station: check for sending, Current: 8 Reserved: 19, CurrentTime 1496179357285
+Station: next slot in time 1496179357285 wait 35
+wait for next_slot 
+Station: 1496179357332: 332 -> 9 40
+MESSAGE A last Slot
+Station: check for sending, Current: 9 Reserved: 19, CurrentTime 1496179357332
+Station: next slot in time 1496179357332 wait 28
+wait for next_slot 
+Station: 1496179357363: 363 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: 19, CurrentTime 1496179357363
+Station: next slot in time 1496179357363 wait 37
+wait for next_slot 
+Station: 1496179357410: 410 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: 19, CurrentTime 1496179357410
+Station: next slot in time 1496179357410 wait 30
+wait for next_slot 
+Station: 1496179357441: 441 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: 19, CurrentTime 1496179357441
+Station: next slot in time 1496179357441 wait 39
+wait for next_slot 
+Station: 1496179357488: 488 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: 19, CurrentTime 1496179357488
+Station: next slot in time 1496179357488 wait 32
+wait for next_slot 
+Station: 1496179357535: 535 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: 19, CurrentTime 1496179357535
+Station: next slot in time 1496179357535 wait 25
+wait for next_slot 
+Station: 1496179357566: 566 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: 19, CurrentTime 1496179357566
+Station: next slot in time 1496179357566 wait 34
+wait for next_slot 
+Station: 1496179357613: 613 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: 19, CurrentTime 1496179357613
+Station: next slot in time 1496179357613 wait 27
+wait for next_slot 
+Station: 1496179357644: 644 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: 19, CurrentTime 1496179357644
+Station: next slot in time 1496179357644 wait 36
+wait for next_slot 
+Station: 1496179357691: 691 -> 18 40
+MESSAGE A last Slot
+Station: check for sending, Current: 18 Reserved: 19, CurrentTime 1496179357691
+Station: next slot in time 1496179357691 wait 29
+wait for next_slot 
+Station: 1496179357722: 722 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: 19, CurrentTime 1496179357722
+Station: Sent message, next Reservation: 25
+Station: next slot in time 1496179357722 wait 38
+wait for next_slot 
+Station: 1496179357769: 769 -> 20 40
+MESSAGE A last Slot
+Station: check for sending, Current: 20 Reserved: 25, CurrentTime 1496179357769
+Station: next slot in time 1496179357769 wait 31
+wait for next_slot 
+Station: 1496179357800: 800 -> 21 40
+MESSAGE A last Slot
+Station: check for sending, Current: 21 Reserved: 25, CurrentTime 1496179357800
+Station: next slot in time 1496179357800 wait 40
+wait for next_slot 
+Station: 1496179357847: 847 -> 22 40
+MESSAGE A last Slot
+Station: check for sending, Current: 22 Reserved: 25, CurrentTime 1496179357847
+Station: next slot in time 1496179357847 wait 33
+wait for next_slot 
+Station: 1496179357893: 893 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: 25, CurrentTime 1496179357893
+Station: next slot in time 1496179357893 wait 27
+wait for next_slot 
+Station: 1496179357925: 925 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: 25, CurrentTime 1496179357925
+Station: next slot in time 1496179357925 wait 35
+wait for next_slot 
+Station: 1496179357971: 971 -> 25 40
+MESSAGE A last Slot
+Station: check for sending, Current: 25 Reserved: 25, CurrentTime 1496179357971
+Station: next slot in time 1496179357971 wait 29
+wait for next_slot 
+Station: 1496179358003: 3 -> 1 40
+MESSAGE A last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: 25, CurrentTime 1496179358003
+Station: next slot in time 1496179358003 wait 37
+wait for next_slot 
+Station: 1496179358049: 49 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: 25, CurrentTime 1496179358049
+Station: next slot in time 1496179358049 wait 31
+wait for next_slot 
+Station: 1496179358081: 81 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: 25, CurrentTime 1496179358081
+Station: next slot in time 1496179358081 wait 39
+wait for next_slot 
+Station: 1496179358127: 127 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: 25, CurrentTime 1496179358127
+Station: next slot in time 1496179358127 wait 33
+wait for next_slot 
+Station: 1496179358174: 174 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: 25, CurrentTime 1496179358174
+Station: next slot in time 1496179358174 wait 26
+wait for next_slot 
+Station: 1496179358205: 205 -> 6 40
+MESSAGE A last Slot
+Station: check for sending, Current: 6 Reserved: 25, CurrentTime 1496179358205
+Station: next slot in time 1496179358205 wait 35
+wait for next_slot 
+Station: 1496179358252: 252 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: 25, CurrentTime 1496179358252
+Station: next slot in time 1496179358252 wait 28
+wait for next_slot 
+Station: 1496179358283: 283 -> 8 40
+MESSAGE A last Slot
+Station: check for sending, Current: 8 Reserved: 25, CurrentTime 1496179358283
+Station: next slot in time 1496179358283 wait 37
+wait for next_slot 
+Station: 1496179358330: 330 -> 9 40
+MESSAGE A last Slot
+Station: check for sending, Current: 9 Reserved: 25, CurrentTime 1496179358330
+Station: next slot in time 1496179358330 wait 30
+wait for next_slot 
+Station: 1496179358361: 361 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: 25, CurrentTime 1496179358361
+Station: next slot in time 1496179358361 wait 39
+wait for next_slot 
+Station: 1496179358408: 408 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: 25, CurrentTime 1496179358408
+Station: next slot in time 1496179358408 wait 32
+wait for next_slot 
+Station: 1496179358455: 455 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: 25, CurrentTime 1496179358455
+Station: next slot in time 1496179358455 wait 25
+wait for next_slot 
+Station: 1496179358486: 486 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: 25, CurrentTime 1496179358486
+Station: next slot in time 1496179358486 wait 34
+wait for next_slot 
+Station: 1496179358533: 533 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: 25, CurrentTime 1496179358533
+Station: next slot in time 1496179358533 wait 27
+wait for next_slot 
+Station: 1496179358564: 564 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: 25, CurrentTime 1496179358564
+Station: next slot in time 1496179358564 wait 36
+wait for next_slot 
+Station: 1496179358611: 611 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: 25, CurrentTime 1496179358611
+Station: next slot in time 1496179358611 wait 29
+wait for next_slot 
+Station: 1496179358642: 642 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: 25, CurrentTime 1496179358642
+Station: next slot in time 1496179358642 wait 38
+wait for next_slot 
+Station: 1496179358689: 689 -> 18 40
+MESSAGE A last Slot
+Station: check for sending, Current: 18 Reserved: 25, CurrentTime 1496179358689
+Station: next slot in time 1496179358689 wait 31
+wait for next_slot 
+Station: 1496179358720: 720 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: 25, CurrentTime 1496179358720
+Station: next slot in time 1496179358720 wait 40
+wait for next_slot 
+Station: 1496179358767: 767 -> 20 40
+got no message last Slot
+Station: check for sending, Current: 20 Reserved: 25, CurrentTime 1496179358767
+Station: next slot in time 1496179358767 wait 33
+wait for next_slot 
+Station: 1496179358814: 814 -> 21 40
+MESSAGE A last Slot
+Station: check for sending, Current: 21 Reserved: 25, CurrentTime 1496179358814
+Station: next slot in time 1496179358814 wait 26
+wait for next_slot 
+Station: 1496179358845: 845 -> 22 40
+MESSAGE A last Slot
+Station: check for sending, Current: 22 Reserved: 25, CurrentTime 1496179358845
+Station: next slot in time 1496179358845 wait 35
+wait for next_slot 
+Station: 1496179358892: 892 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: 25, CurrentTime 1496179358892
+Station: next slot in time 1496179358892 wait 28
+wait for next_slot 
+Station: 1496179358923: 923 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: 25, CurrentTime 1496179358923
+Station: next slot in time 1496179358923 wait 37
+wait for next_slot 
+Station: 1496179358970: 970 -> 25 40
+MESSAGE A last Slot
+Station: check for sending, Current: 25 Reserved: 25, CurrentTime 1496179358970
+Station: Sent message, next Reservation: 17
+Station: next slot in time 1496179358970 wait 30
+wait for next_slot 
+Station: 1496179359001: 1 -> 1 40
+--COLLISION-- last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: 17, CurrentTime 1496179359001
+Station: next slot in time 1496179359001 wait 39
+wait for next_slot 
+Station: 1496179359048: 48 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: 17, CurrentTime 1496179359048
+Station: next slot in time 1496179359048 wait 32
+wait for next_slot 
+Station: 1496179359095: 95 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: 17, CurrentTime 1496179359095
+Station: next slot in time 1496179359095 wait 25
+wait for next_slot 
+Station: 1496179359126: 126 -> 4 40
+got no message last Slot
+Station: check for sending, Current: 4 Reserved: 17, CurrentTime 1496179359126
+Station: next slot in time 1496179359126 wait 34
+wait for next_slot 
+Station: 1496179359173: 173 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: 17, CurrentTime 1496179359173
+Station: next slot in time 1496179359173 wait 27
+wait for next_slot 
+Station: 1496179359204: 204 -> 6 40
+MESSAGE A last Slot
+Station: check for sending, Current: 6 Reserved: 17, CurrentTime 1496179359204
+Station: next slot in time 1496179359204 wait 36
+wait for next_slot 
+Station: 1496179359251: 251 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: 17, CurrentTime 1496179359251
+Station: next slot in time 1496179359251 wait 29
+wait for next_slot 
+Station: 1496179359282: 282 -> 8 40
+MESSAGE A last Slot
+Station: check for sending, Current: 8 Reserved: 17, CurrentTime 1496179359282
+Station: next slot in time 1496179359282 wait 38
+wait for next_slot 
+Station: 1496179359329: 329 -> 9 40
+MESSAGE A last Slot
+Station: check for sending, Current: 9 Reserved: 17, CurrentTime 1496179359329
+Station: next slot in time 1496179359329 wait 31
+wait for next_slot 
+Station: 1496179359360: 360 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: 17, CurrentTime 1496179359360
+Station: next slot in time 1496179359360 wait 40
+wait for next_slot 
+Station: 1496179359407: 407 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: 17, CurrentTime 1496179359407
+Station: next slot in time 1496179359407 wait 33
+wait for next_slot 
+Station: 1496179359453: 453 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: 17, CurrentTime 1496179359453
+Station: next slot in time 1496179359453 wait 27
+wait for next_slot 
+Station: 1496179359485: 485 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: 17, CurrentTime 1496179359485
+Station: next slot in time 1496179359485 wait 35
+wait for next_slot 
+Station: 1496179359531: 531 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: 17, CurrentTime 1496179359531
+Station: next slot in time 1496179359531 wait 29
+wait for next_slot 
+Station: 1496179359563: 563 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: 17, CurrentTime 1496179359563
+Station: next slot in time 1496179359563 wait 37
+wait for next_slot 
+Station: 1496179359609: 609 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: 17, CurrentTime 1496179359609
+Station: next slot in time 1496179359609 wait 31
+wait for next_slot 
+Station: 1496179359641: 641 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: 17, CurrentTime 1496179359641
+Station: Sent message, next Reservation: 3
+Station: next slot in time 1496179359641 wait 39
+wait for next_slot 
+Station: 1496179359687: 687 -> 18 40
+--COLLISION-- last Slot
+Station: check for sending, Current: 18 Reserved: 3, CurrentTime 1496179359687
+Station: next slot in time 1496179359687 wait 33
+wait for next_slot 
+Station: 1496179359734: 734 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: 3, CurrentTime 1496179359734
+Station: next slot in time 1496179359734 wait 26
+wait for next_slot 
+Station: 1496179359765: 765 -> 20 40
+got no message last Slot
+Station: check for sending, Current: 20 Reserved: 3, CurrentTime 1496179359765
+Station: next slot in time 1496179359765 wait 35
+wait for next_slot 
+Station: 1496179359812: 812 -> 21 40
+MESSAGE A last Slot
+Station: check for sending, Current: 21 Reserved: 3, CurrentTime 1496179359812
+Station: next slot in time 1496179359812 wait 28
+wait for next_slot 
+Station: 1496179359843: 843 -> 22 40
+MESSAGE A last Slot
+Station: check for sending, Current: 22 Reserved: 3, CurrentTime 1496179359843
+Station: next slot in time 1496179359843 wait 37
+wait for next_slot 
+Station: 1496179359890: 890 -> 23 40
+got no message last Slot
+Station: check for sending, Current: 23 Reserved: 3, CurrentTime 1496179359890
+Station: next slot in time 1496179359890 wait 30
+wait for next_slot 
+Station: 1496179359921: 921 -> 24 40
+got no message last Slot
+Station: check for sending, Current: 24 Reserved: 3, CurrentTime 1496179359921
+Station: next slot in time 1496179359921 wait 39
+wait for next_slot 
+Station: 1496179359968: 968 -> 25 40
+MESSAGE A last Slot
+Station: check for sending, Current: 25 Reserved: 3, CurrentTime 1496179359968
+Station: next slot in time 1496179359968 wait 32
+wait for next_slot 
+Station: 1496179360015: 15 -> 1 40
+MESSAGE A last Slot
+=== new frame ===
+Station: check for sending, Current: 1 Reserved: 3, CurrentTime 1496179360015
+Station: next slot in time 1496179360015 wait 25
+wait for next_slot 
+Station: 1496179360046: 46 -> 2 40
+got no message last Slot
+Station: check for sending, Current: 2 Reserved: 3, CurrentTime 1496179360046
+Station: next slot in time 1496179360046 wait 34
+wait for next_slot 
+Station: 1496179360093: 93 -> 3 40
+got no message last Slot
+Station: check for sending, Current: 3 Reserved: 3, CurrentTime 1496179360093
+Station: Sent message, next Reservation: 6
+Station: next slot in time 1496179360093 wait 27
+wait for next_slot 
+Station: 1496179360124: 124 -> 4 40
+MESSAGE A last Slot
+Station: check for sending, Current: 4 Reserved: 6, CurrentTime 1496179360124
+Station: next slot in time 1496179360124 wait 36
+wait for next_slot 
+Station: 1496179360171: 171 -> 5 40
+MESSAGE A last Slot
+Station: check for sending, Current: 5 Reserved: 6, CurrentTime 1496179360171
+Station: next slot in time 1496179360171 wait 29
+wait for next_slot 
+Station: 1496179360202: 202 -> 6 40
+MESSAGE A last Slot
+Station: check for sending, Current: 6 Reserved: 6, CurrentTime 1496179360202
+Station: next slot in time 1496179360202 wait 38
+wait for next_slot 
+Station: 1496179360249: 249 -> 7 40
+got no message last Slot
+Station: check for sending, Current: 7 Reserved: 6, CurrentTime 1496179360249
+Station: next slot in time 1496179360249 wait 31
+wait for next_slot 
+Station: 1496179360280: 280 -> 8 40
+MESSAGE A last Slot
+Station: check for sending, Current: 8 Reserved: 6, CurrentTime 1496179360280
+Station: next slot in time 1496179360280 wait 40
+wait for next_slot 
+Station: 1496179360327: 327 -> 9 40
+MESSAGE A last Slot
+Station: check for sending, Current: 9 Reserved: 6, CurrentTime 1496179360327
+Station: next slot in time 1496179360327 wait 33
+wait for next_slot 
+Station: 1496179360374: 374 -> 10 40
+got no message last Slot
+Station: check for sending, Current: 10 Reserved: 6, CurrentTime 1496179360374
+Station: next slot in time 1496179360374 wait 26
+wait for next_slot 
+Station: 1496179360405: 405 -> 11 40
+MESSAGE A last Slot
+Station: check for sending, Current: 11 Reserved: 6, CurrentTime 1496179360405
+Station: next slot in time 1496179360405 wait 35
+wait for next_slot 
+Station: 1496179360452: 452 -> 12 40
+got no message last Slot
+Station: check for sending, Current: 12 Reserved: 6, CurrentTime 1496179360452
+Station: next slot in time 1496179360452 wait 28
+wait for next_slot 
+Station: 1496179360483: 483 -> 13 40
+got no message last Slot
+Station: check for sending, Current: 13 Reserved: 6, CurrentTime 1496179360483
+Station: next slot in time 1496179360483 wait 37
+wait for next_slot 
+Station: 1496179360530: 530 -> 14 40
+got no message last Slot
+Station: check for sending, Current: 14 Reserved: 6, CurrentTime 1496179360530
+Station: next slot in time 1496179360530 wait 30
+wait for next_slot 
+Station: 1496179360561: 561 -> 15 40
+got no message last Slot
+Station: check for sending, Current: 15 Reserved: 6, CurrentTime 1496179360561
+Station: next slot in time 1496179360561 wait 39
+wait for next_slot 
+Station: 1496179360608: 608 -> 16 40
+got no message last Slot
+Station: check for sending, Current: 16 Reserved: 6, CurrentTime 1496179360608
+Station: next slot in time 1496179360608 wait 32
+wait for next_slot 
+Station: 1496179360655: 655 -> 17 40
+got no message last Slot
+Station: check for sending, Current: 17 Reserved: 6, CurrentTime 1496179360655
+Station: next slot in time 1496179360655 wait 25
+wait for next_slot 
+Station: 1496179360686: 686 -> 18 40
+MESSAGE A last Slot
+Station: check for sending, Current: 18 Reserved: 6, CurrentTime 1496179360686
+Station: next slot in time 1496179360686 wait 34
+wait for next_slot 
+Station: 1496179360733: 733 -> 19 40
+got no message last Slot
+Station: check for sending, Current: 19 Reserved: 6, CurrentTime 1496179360733
+Station: next slot in time 1496179360733 wait 27
+wait for next_slot 
+Station: 1496179360764: 764 -> 20 40
+got no message last Slot
+Station: check for sending, Current: 20 Reserved: 6, CurrentTime 1496179360764
+Station: next slot in time 1496179360764 wait 36
+wait for next_slot 
