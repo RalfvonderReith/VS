@@ -1,32 +1,30 @@
 -module(sender).
--export([start/7]).
+-export([start/8]).
 
--define(logfile, "sender.log").
-
-start(LocalAddress, SendAddress, Port, Type, Reader, TimeManager, SlotManager) ->
+start(LocalAddress, SendAddress, Port, Type, Reader, TimeManager, SlotManager, SNo) ->
 	%ONLY FOR TESTING: 
-	Socket = socket,
+	%Socket = socket,
 	%USE IN PRODUCTION!
-	%Socket = werkzeug:openSe(LocalAddress, Port),
-	werkzeug:logging(?logfile, "Sender started\r\n"),
-	communication(Socket, SendAddress, Port, Type, Reader, TimeManager, SlotManager).
+	Socket = werkzeug:openSe(LocalAddress, Port),
+	werkzeug:logging(lists:concat(["sender",SNo,".log"]), "Sender started\r\n"),
+	communication(Socket, SendAddress, Port, Type, Reader, TimeManager, SlotManager, SNo).
 	
-communication(Socket, Address, Port, Type, Reader, TimeManager, SlotManager) ->
+communication(Socket, Address, Port, Type, Reader, TimeManager, SlotManager, SNo) ->
 	receive
 		{send, PID, SlotStart, SlotEnd} ->
-			werkzeug:logging(?logfile, "received send\r\n"),
+			werkzeug:logging(lists:concat(["sender",SNo,".log"]), "received send\r\n"),
 			Reader ! {generate, self()},
 			receive
 				{content, Data} ->
 					Data
 			end,
-			werkzeug:logging(?logfile, "received data\r\n"),
+			werkzeug:logging(lists:concat(["sender",SNo,".log"]), "received data\r\n"),
 			%get slot
 			NewSlot = getNewSlot(SlotManager),
-			werkzeug:logging(?logfile, "received slot\r\n"),
+			werkzeug:logging(lists:concat(["sender",SNo,".log"]), "received slot\r\n"),
 			%send message
 			Time = getTime(TimeManager),
-			werkzeug:logging(?logfile, "received time\r\n"),
+			werkzeug:logging(lists:concat(["sender",SNo,".log"]), "received time\r\n"),
 			
 			if
 				(Time > SlotStart) and (Time < SlotEnd) ->
@@ -35,19 +33,19 @@ communication(Socket, Address, Port, Type, Reader, TimeManager, SlotManager) ->
 								werkzeug:createBinaryD(Data), 
 								werkzeug:createBinaryNS(NewSlot),
 								werkzeug:createBinaryT(Time)),
-					werkzeug:logging(?logfile, "created packet\r\n"),
+					werkzeug:logging(lists:concat(["sender",SNo,".log"]), "created packet\r\n"),
 					%%ONLY FOR TESTING! 
-					tester ! {message, Type, Data, NewSlot, Time},
+					%tester ! {message, Type, Data, NewSlot, Time},
 					%use in production! : 
-					%ok = gen_udp:send(Socket, Address, Port, Packet),
-					werkzeug:logging(?logfile, lists:concat(["new message sent; Time:", Time, "; Reservation: ", NewSlot, ".\r\n"])),
+					ok = gen_udp:send(Socket, Address, Port, Packet),
+					werkzeug:logging(lists:concat(["sender",SNo,".log"]), lists:concat(["new message sent; Time:", Time, "; Reservation: ", NewSlot, ".\r\n"])),
 					PID ! {ok, NewSlot};
 				true ->
-					werkzeug:logging(?logfile, lists:concat(["missed slot : currentTime ", Time, " expected: ", SlotStart, "-", SlotEnd, "\r\n"])),
+					werkzeug:logging(lists:concat(["sender",SNo,".log"]), lists:concat(["missed slot : currentTime ", Time, " expected: ", SlotStart, "-", SlotEnd, "\r\n"])),
 					PID ! {missed}
 					
 			end,
-			communication(Socket, Address, Port, Type, Reader, TimeManager, SlotManager)
+			communication(Socket, Address, Port, Type, Reader, TimeManager, SlotManager, SNo)
 	end.
 	
 getNewSlot(SlotManager) ->

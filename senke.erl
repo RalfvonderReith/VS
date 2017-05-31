@@ -1,10 +1,10 @@
 -module(senke).
--export([start/0]).
+-export([start/1]).
 
-start() ->
+start(SNo) ->
 	receive
 		{content, Text} ->
-			werkzeug:logging("senke.log",lists:concat(["Nachricht erhalten: ", Text, "\r\n"])),
-			start()
+			werkzeug:logging(lists:concat(["senke", SNo, ".log"]),lists:concat(["Nachricht erhalten: ", Text, "\r\n"])),
+			start(SNo)
 	end.
 	

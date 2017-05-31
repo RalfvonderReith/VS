@@ -1,12 +1,10 @@
 -module(receiver).
--export([start/4]).
+-export([start/5]).
 
--define(logfile, "receiver.log").
-
-start(Interface, IP, Port, TimeManager) ->
+start(Interface, IP, Port, TimeManager, SNo) ->
 	%USE IN PRODUCTION!
-	%spawn(receiver, netreceive, [self(), Interface, IP, Port]),
-	communication([], TimeManager).
+	spawn(receiver, netreceive, [self(), Interface, IP, Port]),
+	communication([], TimeManager, SNo).
 
 % Empfang von UDP Nachrichten ueber Socket
 netreceive(Receiver, Interface, IP, Port) ->
@@ -21,7 +19,7 @@ netloop(Receiver, Socket) ->
 
 
 % Nachrichtenbearbeitung
-communication(Messages, TimeManager) ->
+communication(Messages, TimeManager, SNo) ->
 	receive
 		% Inhalt extrahieren
 		{netmsg, {ok, {_Address, _Port, Packet}}} ->
@@ -39,9 +37,9 @@ communication(Messages, TimeManager) ->
 			Content = erlang:binary_to_list(Payload),
 			Slot = SlotNr,
 			Timestamp = TimeSent,
-			werkzeug:logging(?logfile, lists:concat(["received message: ", Station, " | ", Content, " | ", Slot, " | ", Timestamp, " at ", LocalTime, "\r\n"])),
-			werkzeug:logging(?logfile, lists:concat(["log length before receiving: ", length(Messages) ,"\r\n"])), 
-			communication([{Station, Content, Slot, Timestamp, LocalTime} | Messages], TimeManager);
+			werkzeug:logging(lists:concat(["receiver",SNo,".log"]), lists:concat(["received message: ", Station, " | ", Content, " | ", Slot, " | ", Timestamp, " at ", LocalTime, "\r\n"])),
+			werkzeug:logging(lists:concat(["receiver",SNo,".log"]), lists:concat(["log length before receiving: ", length(Messages) ,"\r\n"])), 
+			communication([{Station, Content, Slot, Timestamp, LocalTime} | Messages], TimeManager, SNo);
 		% Slot ist vorbei
 		{get_message, PID} ->
 			% Pruefe ob genau eine Nachricht angekommen ist
@@ -49,31 +47,16 @@ communication(Messages, TimeManager) ->
 				% keine Nachrichten
 				0 ->
 					PID ! {msg, none},
-					werkzeug:logging(?logfile, "received message request: no messages provided. \r\n"),
-					communication([], TimeManager);
+					werkzeug:logging(lists:concat(["receiver",SNo,".log"]), "received message request: no messages provided. \r\n");
 				% genau eine Nachricht angekommen
 				1 ->
 					[Message] = Messages,
-					werkzeug:logging(?logfile, "received message request: returned a message. \r\n"),
-					PID ! {msg, Message},
-					communication([], TimeManager);
+					werkzeug:logging(lists:concat(["receiver",SNo,".log"]), "received message request: returned a message. \r\n"),
+					PID ! {msg, Message};
 				% eine Kollision, da mehrere Nachrichten innerhalb eines Slots angekommen sind
 				_ ->
 					PID ! {collision},
-					werkzeug:logging(?logfile, "received message request: collision. \r\n"),
-					communication([], TimeManager)
-			end
+					werkzeug:logging(lists:concat(["receiver",SNo,".log"]), "received message request: collision. \r\n")
+			end,
+			communication([], TimeManager, SNo)
 	end.
-
-
-%start() -> 
-	%Station = werkzeug:createBinaryS("A"),
-	%PayLoad = werkzeug:createBinaryD("randomrandomrandomrandom"),
-	%Slot = werkzeug:createBinaryNS(1),
-	%Timestamp = werkzeug:createBinaryT(werkzeug:getUTC()),
-	%SomeMessage = werkzeug:concatBinary(Station, PayLoad, Slot, Timestamp),
-	
-	%sio:format("message: ~p~n",[werkzeug:message_to_string(SomeMessage)]).
-	
-	%werkzeug:openSe('127.0.0.1', 5000),
-	
