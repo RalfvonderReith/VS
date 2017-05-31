@@ -13,12 +13,13 @@ start(SInterface, SIP, SPort, SClass, SOffset) ->
 start(SInterface, SIP, SPort, SClass, SOffset, TimeOffset) ->
 	werkzeug:logging(?logfile, "---starting Station---\r\n"),
 	%USE IN PRODUCTION!
-	%Interface = getIfAddr(SInterface),
-	%{ok, IP} = inet_parse:address(SIP),
-	%{Port, _} = string:to_integer(SPort),
-	Interface = SInterface,
-	IP = SIP, 
-	Port = SPort,
+	Interface = getIfAddr(SInterface),
+	{ok, IP} = inet_parse:address(SIP),
+	{Port, _} = string:to_integer(SPort),
+	%USE WITH TESTER
+	%Interface = SInterface,
+	%IP = SIP, 
+	%Port = SPort,
 	Class = SClass,
 	{Offset, _} = string:to_integer(SOffset),
 	
