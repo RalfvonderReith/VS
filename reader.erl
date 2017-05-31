@@ -4,7 +4,7 @@
 -define(logfile, "quelle.log").
 
 start() ->
-	%spawn(reader, readBuffer, [self()]),
+	spawn(reader, readBuffer, [self()]),
 	provideData("__________INIT__________").
 
 % Lese 24 Bytes aus dem Puffer
